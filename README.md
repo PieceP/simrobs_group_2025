@@ -1,5 +1,8 @@
 # simrobs
-# Simulation of Robotic Systems 
+# SRS: Design and Optimization of Robotics 
+
+
+# SRS: Simulation of Robotic Systems 
 Students: Robotics and artificial intelligence
 
 Instructor: Ivan Borisov, PhD, borisovii@itmo.ru 
